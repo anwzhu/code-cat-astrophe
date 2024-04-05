@@ -24,16 +24,16 @@ N/A
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-I complete the code for the word game itself. Players will be prompted a specific set of letters and be able to enter a word of their choice. The game will verify whether this input is a valid English word from a list. If the word is valid, the game will accept it and players cannot reuse that word for the rest of the game's duration. If the word is invalid, visual and auditory effects will play in response, but users can still input a valid English word as long as time lasts. The game will also show a time limit/countdown for each round.
+I complete the code for the word game itself. Players will be prompted a specific set of letters and be able to enter a word of their choice. The game will verify whether this input is a valid English word from a list. If the word is valid, the game will accept it and players cannot reuse that word for the rest of the game's duration. If the word is invalid, visual and auditory effects will play in response, but users can still input a valid English word as long as time lasts. The game will also show a time limit/countdown for each round and a 'Game Over' screen with "Exit Game' and 'Restart' buttons if the player fails to complete the game.
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-I create a visual storyline depicting the backstory (introduction) of the cat's rebellion. 
+I create a visual storyline depicting the backstory (introduction) of the cat's rebellion as well as the ending cutscreen, followed by brief post-credits.
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+I incoporate the customization feature where players can choose the name and appearance of the cat--fur color, collar design, etc.. The game has visual and auditory effects made by yours truly, and the visual novel has some animations to it.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+I will need to research how to use PyGame
