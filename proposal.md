@@ -6,11 +6,11 @@ Code Cat-astrophe
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A word game where players are prompted a set of letters in which a valid English word must be typed out before time runs out. This game surrounds a humorous storyline between an owner and his/her cat who rebels due to their insatiable, yet fishy, desires.
+A word game where players are prompted a set of letters in which a valid English word must be entered before time runs out. This game surrounds a humorous storyline between an owner and his/her cat who rebels due to their insatiable, yet fishy, desires.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-Using the engine PyGame, this game first displays an immersive storyline with auditory effects and visual illustrations.
+Using the engine PyGame, this game first displays an immersive storyline with auditory effects and visual illustrations. Players will be able to customize the cat's name and appearance upon entering the game and watch a short visual novel displaying the backstory of the conflict between the owner and the cat.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
