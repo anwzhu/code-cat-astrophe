@@ -16,7 +16,7 @@ text_font3 = pygame.font.SysFont(None, 25)
 end_font = pygame.font.SysFont(None, 100)
 clock = pygame.time.Clock()
 
-count, time = 11, '11'.rjust(3)
+count, time = 10, '10'.rjust(3)
 pygame.time.set_timer(pygame.USEREVENT, 1000)
 
 base_font = pygame.font.Font(None, 55)
